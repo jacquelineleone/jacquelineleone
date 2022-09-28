@@ -28,4 +28,4 @@
 <h3>Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/jacqueline-leone-b066b9229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacqueline leone" height="30" width="40" /></a>
-<a href="email:jacqueline.leone02@gmail.com"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="jacqueline.leone02@gmail.com" height="45" width="40"/></a>
+<a href="gmail:jacqueline.leone02@gmail.com"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="jacqueline.leone02@gmail.com" height="45" width="40"/></a>
