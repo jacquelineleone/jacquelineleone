@@ -5,7 +5,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacquelineleone&show_icons=true&theme=dark) -->
 
 - 🌱 I'm currently learning everything I can</h6>
-- 💻 I'm on my search for the first opportunity as a developer</h6>
+- 🚀 I'm currently working on an application for a Mexican Company</h6>
 
 <h3>Languages and Tools:</h3>
 
