@@ -4,9 +4,9 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacquelineleone&show_icons=true&theme=dark) -->
 
-- 🚀 I'm currently working on an application for a Mexican Company</h6>
+- 🚀 I'm currently working on an application for a Mexican Company
 - 🌱 I'm currently learning MongoDB
-- 📫 How to reach me jacqueline.leone02@gmail.com
+- 📫 How to reach me: jacqueline.leone02@gmail.com
 
 <h3>Languages and Tools:</h3>
 
