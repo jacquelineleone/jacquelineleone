@@ -4,8 +4,8 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacquelineleone&show_icons=true&theme=dark) -->
 
-- 🚀 I'm currently working on an application for a Mexican Company
-- 🌱 I'm currently learning MongoDB
+- 🐇 I'm currently working on Bluerabbit
+- 🌱 I'm learning more about Firebase and React Native
 - 📫 How to reach me: jacqueline.leone02@gmail.com
 
 <h3>Languages and Tools:</h3>
