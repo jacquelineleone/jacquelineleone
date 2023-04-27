@@ -5,6 +5,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacquelineleone&show_icons=true&theme=dark) -->
 
 - 🛫 I'm currently working in Eugénie
+- 📚 I'm contributing to the Vean project
 - 🌱 I'm learning more about Next
 - 📫 How to reach me: jacqueline.leone02@gmail.com
 
