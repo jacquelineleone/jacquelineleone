@@ -6,7 +6,7 @@
 
 - 🛫 I'm currently working in Eugénie
 - 📚 I'm contributing in Vean project. If you to know more go here: https://vean-eta.vercel.app/
-- 🌱 I'm learning more about Next
+- 🌱 I'm learning more about PHP
 - 📫 How to reach me: jacqueline.leone02@gmail.com
 
 <h3>Languages and Tools:</h3>
