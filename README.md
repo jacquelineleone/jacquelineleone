@@ -4,7 +4,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacquelineleone&show_icons=true&theme=dark) -->
 
-- 🛫 I'm currently working in Eugénie
+- 🛫 I'm currently working in Delsud
 - 📚 I'm contributing in Vean project. If you to know more go here: https://vean-eta.vercel.app/
 - 🌱 I'm learning more about PHP
 - 📫 How to reach me: jacqueline.leone02@gmail.com
