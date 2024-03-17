@@ -6,7 +6,7 @@
 
 - 🛫 I'm currently working in Delsud
 - 📚 I'm contributing in Vean project. If you want to know more go here: https://vean-eta.vercel.app/
-- 🌱 I'm learning more about PHP
+- 🌱 I'm learning more about creative code
 - 📫 How to reach me: jacqueline.leone02@gmail.com
 
 <h3>Languages and Tools:</h3>
