@@ -17,6 +17,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50px"/></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="52px"/></a>  
 <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="57px"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="NextJs" height="60px" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a> 
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=100&id=vEiU8UeAmv0x&format=png&color=000000" alt="Sass" width="60"/></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
@@ -26,7 +27,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PSQL" width="55px"/></a>
 <a href="https://www.mongodb.com/es"><img src="https://img.icons8.com/color/480/mongodb.png" alt="MongoDB" width="60px"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" alt="NodeJs" width="60px"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express" width="60px" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express" width="80px" /></a>
 </div>
 
 </br>
